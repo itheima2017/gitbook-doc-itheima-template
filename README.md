@@ -1,11 +1,8 @@
-# Introduction
+# vueAdminlte 商用前后端分离项目模板
+
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://github.com/Coding/WebIDE/blob/master/LICENSE) [![Build Status](https://travis-ci.org/Coding/WebIDE.svg?branch=master)](https://travis-ci.org/Coding/WebIDE) [![Docker Stars](https://img.shields.io/docker/stars/webide/webide.svg)](https://hub.docker.com/r/webide/webide 'DockerHub') [![Docker Pulls](https://img.shields.io/docker/pulls/webide/webide.svg)](https://hub.docker.com/r/webide/webide 'DockerHub')
 
 README: [English](https://github.com/Coding/WebIDE/blob/master/README.md) | [中文](https://github.com/Coding/WebIDE/blob/master/README-zh.md)
-
-## 项目名称
-
-vueAdminlte商用前后端分离项目模板
 
 ## 项目logo
 
@@ -123,10 +120,6 @@ server {
 
 * [GitHub API](https://developer.github.com/v3/)
 
-## 版权
-
-江苏传智播客教育科技股份有限公司 &nbsp;版权所有Copyright 2006-2018, All Rights Reserved
-
 ## 引文
 
 - [RESTful Service API 设计最佳工程实践和常见问题解决方案](http://www.jianshu.com/p/cf80d644727e)
@@ -134,6 +127,10 @@ server {
 - [Best practices for API versioning?](https://stackoverflow.com/questions/389169/best-practices-for-api-versioning)
 - [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/)
 - [JWT](https://jwt.io/)
+
+## 版权
+
+江苏传智播客教育科技股份有限公司 &nbsp;版权所有Copyright 2006-2018, All Rights Reserved
 
 ## 其他
 
