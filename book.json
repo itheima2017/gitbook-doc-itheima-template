@@ -1,0 +1,19 @@
+{
+  "title": "项目名称 - 本文档类型 如: api手册、技术总体说明、使用帮助手册",
+  "author": "传智研究院",
+  "description": "本当简介，文档背景、文档目标",
+  "language": "zh-hans",
+  "copyright": "江苏传智播客教育科技股份有限公司 &nbsp;版权所有Copyright 2006-2018, All Rights Reserved",
+  "plugins": [
+    "theme-itheima",
+    "splitter",
+    "prism",
+    "expandable-chapters",
+    "-sharing"
+  ],
+  "pluginsConfig": {
+    "theme-default": {
+      "showLevel": false
+    }
+  }
+}
