@@ -26,13 +26,13 @@ vue + adminlte + element + nuxt + j2ee
 
 ## 功能特色
 
-全功能 Web Terminal
-语法加亮
-代码补全
-主题切换
-分割视图
-VIM／Emacs 模式
-实时预览
+* [x] 全功能 Web Terminal
+* [x] 语法加亮
+* [x] 代码补全
+* [x] 主题切换
+* [x] 分割视图
+* [x] VIM／Emacs 模式
+* [x] 实时预览
 
 ## 模块说明
 
